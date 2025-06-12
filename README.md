@@ -1,5 +1,5 @@
 <div align=center>
-    <p><del>Khoi</del></p>
+    <l1>Khoi</l1>
 </div>
 
-![img](https://files.catbox.moe/xku92e.png)
+![img](https://w.wallhaven.cc/full/21/wallhaven-21k65x.png)
